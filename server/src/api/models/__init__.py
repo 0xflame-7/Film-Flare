@@ -1,0 +1,17 @@
+from .model import (
+    Movie,
+    Genre,
+    Actor,
+    Director,
+    MovieActorLink,
+    MovieDirectorLink,
+    MovieGenreLink,
+    UserRating,
+    UserPreference,
+    User,
+    Session,
+    UserAuth,
+    Year,
+    MovieData,
+    UserRating,
+)
